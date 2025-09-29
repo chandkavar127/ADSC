@@ -1,0 +1,6 @@
+{
+  "name": "project-name",
+  "private": true,
+  "workspaces": ["client", "server"],
+  "scripts": {}
+}
